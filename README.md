@@ -1,10 +1,14 @@
-## Olá ! Eu sou Vinicius Cardoso 🚩
+## Olá ! Eu sou Vinicius Cardoso
 
 ### Sobre Mim
 
-Sou estudante de Sistema de Informação na Cesar School. Atualmente estou estudando cybersegurança
+Sou estudante de Sistema de Informação. Atualmente estou estudando cybersegurança
 e também estou fazendo projetos com foco em programação em baixo. Sempre busco melhorar processos
 e gerar resultados tangiveis para as empresas. 
+
+### :mortar_board: Formação 
+:mortar_board: Network Essencials pela Cisco \
+:mortar_board: Cursando SI na Cesar School
 
 ### :file_folder: Minhas Principais Habilidades 
 :red_circle: Python \
@@ -13,3 +17,5 @@ e gerar resultados tangiveis para as empresas.
 :red_circle: CSS\
 :red_circle: Metodologias Ágeis\
 :red_circle: Git e Versionamento de código 
+
+
