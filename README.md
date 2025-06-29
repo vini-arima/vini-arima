@@ -1,13 +1,15 @@
-### Olá ! Eu sou Vinicius Cardoso 🚩
+## Olá ! Eu sou Vinicius Cardoso 🚩
 
-- 🧠 Estudante de SI
-- 💀 Estudando cybersegurança com foco em pentest
-- 📍  Entusiasta de programação em baixo nível 
+### Sobre Mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cardoso-306443306/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vini.offsec/) 
+Sou estudante de Sistema de Informação na Cesar School. Atualmente estou estudando cybersegurança
+e também estou fazendo projetos com foco em programação em baixo. Sempre busco melhorar processos
+e gerar resultados tangiveis para as empresas. 
 
-## Tecnologias que uso 
-<div style ="display: inline_block"> <br/> 
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img align="center" alt="C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white> 
+### :file_folder: Minhas Principais Habilidades 
+:red_circle: Python \
+:red_circle: C \
+:red_circle: HTML \
+:red_circle: CSS\
+:red_circle: Metodologias Ágeis\
+:red_circle: Git e Versionamento de código 
