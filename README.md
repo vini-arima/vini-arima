@@ -7,7 +7,7 @@ e também estou fazendo projetos com foco em programação em baixo. Sempre busc
 e gerar resultados tangiveis para as empresas. 
 
 ### :mortar_board: Formação 
-- Network Essencials pela Cisco \
+- Network Essencials pela Cisco 
 - Cursando SI na Cesar School
 
 ### :file_folder: Minhas Principais Habilidades 
