@@ -2,8 +2,7 @@
 
 ### Sobre Mim
 
-Sou estudante de Sistema de Informação. Atualmente estou estudando cybersegurança
-e também estou fazendo projetos com foco em programação em baixo. Sempre busco melhorar processos
+Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança. Sempre busco melhorar processos
 e gerar resultados tangiveis para as empresas. 
 
 ### :mortar_board: Formação 
