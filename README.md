@@ -2,8 +2,8 @@
 
 ### Sobre Mim
 
-Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança. Sempre busco melhorar processos
-e gerar resultados tangiveis para as empresas. 
+Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança. \
+Sempre busco gerar resultados tangiveis para as empresas. 
 
 ### :mortar_board: Formação 
 - Cursando SI na Cesar School
