@@ -10,11 +10,14 @@ e gerar resultados tangiveis para as empresas.
 - Cursando SI na Cesar School
 
 ### :file_folder: Minhas Principais Habilidades 
-:red_circle: Python \
-:red_circle: C \
-:red_circle: HTML \
-:red_circle: CSS\
-:red_circle: Metodologias Ágeis\
-:red_circle: Git e Versionamento de código 
+:small_orange_diamond: Programação \
+:small_orange_diamond: Metodologias Ágeis \
+:small_orange_diamond: Git e Versionamento de código 
 
-
+### Linguagens
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ 
+</div><br/>
