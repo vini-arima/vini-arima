@@ -12,6 +12,7 @@ Sempre busco gerar resultados tangiveis para as empresas.
 :small_orange_diamond: Programação \
 :small_orange_diamond: Metodologias Ágeis \
 :small_orange_diamond: Git e Versionamento de código 
+:small_orange_diamond: Redes de Computadores \
 
 ### Linguagens de Programação
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
