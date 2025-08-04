@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança. \
+Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança e inraestrutura de TI. \
 Sempre busco gerar resultados tangiveis para as empresas. 
 
 ### :mortar_board: Formação 
