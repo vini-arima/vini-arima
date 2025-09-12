@@ -3,7 +3,7 @@
 ### Sobre Mim
 
 💻 Estudante de Sistemas de Informação \
-🚀 Sempre buscando aprender algo novo! \
+🚀 Sempre buscando aprender algo novo \
 🌱 No momento estou estudando Java
 
 ### Stack
