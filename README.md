@@ -2,8 +2,9 @@
 
 ### Sobre Mim
 
-Sou estudante de Sistema de Informação, Atualmente estou estudando cybersegurança e Infraestrutura de TI. \
-Sempre busco gerar resultados tangiveis para as empresas. 
+💻 Estudante de Sistemas de Informação \
+🚀 Sempre buscando aprender algo novo! \
+🌱 No momento estou estudando Java
 
 ### Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
