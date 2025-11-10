@@ -4,7 +4,8 @@
 
 💻 Estudante de Sistemas de Informação \
 🚀 Sempre buscando aprender algo novo \
-🌱 No momento estou estudando Java
+🌱 Areas de interesse: Desenvolvimento Backend e Cibersegurança
+
 
 ### Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
