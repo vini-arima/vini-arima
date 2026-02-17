@@ -4,7 +4,7 @@
 
 💻 Estudante de Sistemas de Informação \
 🚀 Sempre buscando aprender algo novo \
-🌱 Areas de interesse: Desenvolvimento Backend e Cibersegurança
+🌱 Areas de interesse: Desenvolvimento Backend 
 
 
 ### Stack
