@@ -12,7 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
